@@ -1,6 +1,6 @@
 # Hangout Prototype
 
-This project shows a design concept for a client. It demonstrates what their idea looks like in practice. I also use it to improve my development skills.
+This project shows a design concept for a client. It demonstrates what their idea looks like in practice.
 
 ## What It Is
 
